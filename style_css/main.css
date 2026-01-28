@@ -1,0 +1,5 @@
+/*  This sheet will be used only to import all the other css style sheets */
+
+@import url("style.css");
+@import url("layout.css");
+@import url("content.css");

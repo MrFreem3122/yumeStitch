@@ -1,0 +1,20 @@
+/* style css*/
+/* This sheet will be used for all the reset css styles and the body */
+
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+
+body{
+
+    min-height: 100vh;
+    background-color: white;
+    color: black;
+    overflow-y: scroll;
+    border: 1px black;
+
+}

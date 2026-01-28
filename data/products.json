@@ -1,0 +1,325 @@
+[
+  {
+    "id": "T1",
+    "category": "tshirt",
+    "name": "Livai Tshirt",
+    "price": 500,
+    "oldPrice": 800,
+    "image": "",
+    "description": "",
+    "details": ["100% cotton", "Machine washable", "Unisex fit"]
+  },
+  {
+    "id": "T2",
+    "category": "tshirt",
+    "name": "",
+    "price": 500,
+    "oldPrice": 800,
+    "image": "",
+    "description": "",
+    "details": ["100% cotton", "Machine washable", "Unisex fit"]
+  },
+  {
+    "id": "T3",
+    "category": "tshirt",
+    "name": "",
+    "price": 500,
+    "oldPrice": 800,
+    "image": "",
+    "description": "",
+    "details": ["100% cotton", "Machine washable", "Unisex fit"]
+  },
+  {
+    "id": "T4",
+    "category": "tshirt",
+    "name": "",
+    "price": 500,
+    "oldPrice": 800,
+    "image": "",
+    "description": "",
+    "details": ["100% cotton", "Machine washable", "Unisex fit"]
+  },
+  {
+    "id": "T5",
+    "category": "tshirt",
+    "name": "",
+    "price": 500,
+    "oldPrice": 800,
+    "image": "",
+    "description": "",
+    "details": ["100% cotton", "Machine washable", "Unisex fit"]
+  },
+  {
+    "id": "T6",
+    "category": "tshirt",
+    "name": "",
+    "price": 500,
+    "oldPrice": 800,
+    "image": "",
+    "description": "",
+    "details": ["100% cotton", "Machine washable", "Unisex fit"]
+  },
+  {
+    "id": "T7",
+    "category": "tshirt",
+    "name": "",
+    "price": 500,
+    "oldPrice": 800,
+    "image": "",
+    "description": "",
+    "details": ["100% cotton", "Machine washable", "Unisex fit"]
+  },
+  {
+    "id": "T8",
+    "category": "tshirt",
+    "name": "",
+    "price": 500,
+    "oldPrice": 800,
+    "image": "",
+    "description": "",
+    "details": ["100% cotton", "Machine washable", "Unisex fit"]
+  },
+
+  {
+    "id": "H1",
+    "category": "hoodie",
+    "name": "Livai Hoodie",
+    "price": 500,
+    "oldPrice": 800,
+    "image": "",
+    "description": "",
+    "details": ["100% cotton", "Machine washable", "Unisex fit"]
+  },
+  {
+    "id": "H2",
+    "category": "hoodie",
+    "name": "",
+    "price": 500,
+    "oldPrice": 800,
+    "image": "",
+    "description": "",
+    "details": ["100% cotton", "Machine washable", "Unisex fit"]
+  },
+  {
+    "id": "H3",
+    "category": "hoodie",
+    "name": "",
+    "price": 500,
+    "oldPrice": 800,
+    "image": "",
+    "description": "",
+    "details": ["100% cotton", "Machine washable", "Unisex fit"]
+  },
+  {
+    "id": "H4",
+    "category": "hoodie",
+    "name": "",
+    "price": 500,
+    "oldPrice": 800,
+    "image": "",
+    "description": "",
+    "details": ["100% cotton", "Machine washable", "Unisex fit"]
+  },
+  {
+    "id": "H5",
+    "category": "hoodie",
+    "name": "",
+    "price": 500,
+    "oldPrice": 800,
+    "image": "",
+    "description": "",
+    "details": ["100% cotton", "Machine washable", "Unisex fit"]
+  },
+  {
+    "id": "H6",
+    "category": "hoodie",
+    "name": "",
+    "price": 500,
+    "oldPrice": 800,
+    "image": "",
+    "description": "",
+    "details": ["100% cotton", "Machine washable", "Unisex fit"]
+  },
+  {
+    "id": "H7",
+    "category": "hoodie",
+    "name": "",
+    "price": 500,
+    "oldPrice": 800,
+    "image": "",
+    "description": "",
+    "details": ["100% cotton", "Machine washable", "Unisex fit"]
+  },
+  {
+    "id": "H8",
+    "category": "hoodie",
+    "name": "",
+    "price": 500,
+    "oldPrice": 800,
+    "image": "",
+    "description": "",
+    "details": ["100% cotton", "Machine washable", "Unisex fit"]
+  },
+
+  {
+    "id": "S1",
+    "category": "sweater",
+    "name": "Livai Sweater",
+    "price": 500,
+    "oldPrice": 800,
+    "image": "",
+    "description": "",
+    "details": ["100% cotton", "Machine washable", "Unisex fit"]
+  },
+  {
+    "id": "S2",
+    "category": "sweater",
+    "name": "",
+    "price": 500,
+    "oldPrice": 800,
+    "image": "",
+    "description": "",
+    "details": ["100% cotton", "Machine washable", "Unisex fit"]
+  },
+  {
+    "id": "S3",
+    "category": "sweater",
+    "name": "",
+    "price": 500,
+    "oldPrice": 800,
+    "image": "",
+    "description": "",
+    "details": ["100% cotton", "Machine washable", "Unisex fit"]
+  },
+  {
+    "id": "S4",
+    "category": "sweater",
+    "name": "",
+    "price": 500,
+    "oldPrice": 800,
+    "image": "",
+    "description": "",
+    "details": ["100% cotton", "Machine washable", "Unisex fit"]
+  },
+  {
+    "id": "S5",
+    "category": "sweater",
+    "name": "",
+    "price": 500,
+    "oldPrice": 800,
+    "image": "",
+    "description": "",
+    "details": ["100% cotton", "Machine washable", "Unisex fit"]
+  },
+  {
+    "id": "S6",
+    "category": "sweater",
+    "name": "",
+    "price": 500,
+    "oldPrice": 800,
+    "image": "",
+    "description": "",
+    "details": ["100% cotton", "Machine washable", "Unisex fit"]
+  },
+  {
+    "id": "S7",
+    "category": "sweater",
+    "name": "",
+    "price": 500,
+    "oldPrice": 800,
+    "image": "",
+    "description": "",
+    "details": ["100% cotton", "Machine washable", "Unisex fit"]
+  },
+  {
+    "id": "S8",
+    "category": "sweater",
+    "name": "",
+    "price": 500,
+    "oldPrice": 800,
+    "image": "",
+    "description": "",
+    "details": ["100% cotton", "Machine washable", "Unisex fit"]
+  },
+
+  {
+    "id": "To1",
+    "category": "totebag",
+    "name": "Livai Tote-bag",
+    "price": 500,
+    "oldPrice": 800,
+    "image": "",
+    "description": "",
+    "details": ["100% cotton", "Machine washable", "Unisex fit"]
+  },
+  {
+    "id": "To2",
+    "category": "totebag",
+    "name": "",
+    "price": 500,
+    "oldPrice": 800,
+    "image": "",
+    "description": "",
+    "details": ["100% cotton", "Machine washable", "Unisex fit"]
+  },
+  {
+    "id": "To3",
+    "category": "totebag",
+    "name": "",
+    "price": 500,
+    "oldPrice": 800,
+    "image": "",
+    "description": "",
+    "details": ["100% cotton", "Machine washable", "Unisex fit"]
+  },
+  {
+    "id": "To4",
+    "category": "totebag",
+    "name": "",
+    "price": 500,
+    "oldPrice": 800,
+    "image": "",
+    "description": "",
+    "details": ["100% cotton", "Machine washable", "Unisex fit"]
+  },
+  {
+    "id": "To5",
+    "category": "totebag",
+    "name": "",
+    "price": 500,
+    "oldPrice": 800,
+    "image": "",
+    "description": "",
+    "details": ["100% cotton", "Machine washable", "Unisex fit"]
+  },
+  {
+    "id": "To6",
+    "category": "totebag",
+    "name": "",
+    "price": 500,
+    "oldPrice": 800,
+    "image": "",
+    "description": "",
+    "details": ["100% cotton", "Machine washable", "Unisex fit"]
+  },
+  {
+    "id": "To7",
+    "category": "totebag",
+    "name": "",
+    "price": 500,
+    "oldPrice": 800,
+    "image": "",
+    "description": "",
+    "details": ["100% cotton", "Machine washable", "Unisex fit"]
+  },
+  {
+    "id": "To8",
+    "category": "totebag",
+    "name": "",
+    "price": 500,
+    "oldPrice": 800,
+    "image": "",
+    "description": "",
+    "details": ["100% cotton", "Machine washable", "Unisex fit"]
+  }
+]
